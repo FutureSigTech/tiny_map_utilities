@@ -5,8 +5,18 @@
   "main": "smart_infowindow/smart_infowindow.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Innoto/tiny_map_utilities.git"
+    "url": "git+https://github.com/FutureSigTech/tiny_map_utilities.git"
   },
-  "author": "Innoto",
-  "license": "GPL-3.0-only"
+  "author": "FutureSigTech",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/FutureSigTech/tiny_map_utilities/issues"
+  },
+  "homepage": "https://github.com/FutureSigTech/tiny_map_utilities#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gmaps"
+  ]
 }
