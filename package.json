@@ -1,5 +1,5 @@
 {
-  "name": "tiny_map_utilities",
+  "name": "tini_map_utilities_v3",
   "version": "1.0.0",
   "description": "Google maps v3 api utilities. Fast clusterer based in r-bush . For gmaps api v3",
   "main": "smart_infowindow/smart_infowindow.js",
