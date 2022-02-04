@@ -12,7 +12,7 @@ function smart_infowindow(opts) {
     var current_path = $('script[src$="/smart_infowindow.js"]').attr('src').replace("smart_infowindow.js", "");
   }
   else {
-    var current_path = '/vendor/bower/tini_map_utilities_v3/smart_infowindow/';
+    var current_path = '/vendor/bower/tiny_map_utilities_v3/smart_infowindow/';
   }
 
   this.options = new Object({
